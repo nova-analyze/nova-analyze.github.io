@@ -413,6 +413,7 @@
 }
 .on1-training-nav424 {
   color: #ffffff;
+  font-size: 22px;
   font-family: "Hind";
   font-weight: 400;
   line-height: 150%;
@@ -707,7 +708,7 @@
 }
 @media(max-width: 479px) {
   .on1-training-navbar-interactive {
-    width: 100%;
+    width: 478px;
     height: auto;
     padding: var(--dl-space-space-unit);
   }
@@ -716,7 +717,11 @@
   }
   .on1-training-features-container {
     width: 100%;
-    height: 2708px;
+    height: 2715px;
+  }
+  .on1-training-slider {
+    width: 100%;
+    height: auto;
   }
   .on1-training-slider-slide {
     width: 478px;
@@ -803,7 +808,7 @@
   }
   .on1-training-footer {
     width: 100%;
-    height: auto;
+    height: 415px;
     padding: var(--dl-space-space-unit);
   }
   .on1-training-logo2 {
@@ -814,11 +819,6 @@
   }
   .on1-training-nav322 {
     color: rgb(255, 255, 255);
-    font-size: 22px;
-    font-family: Hind;
-    font-weight: 400;
-    line-height: 150%;
-    text-decoration: none;
   }
   .on1-training-nav424 {
     color: rgb(255, 255, 255);

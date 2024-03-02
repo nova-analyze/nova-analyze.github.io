@@ -187,7 +187,7 @@
   border: 2px dashed rgba(120, 120, 120, 0.4);
 }
 .general-plan-features-container {
-  height: 1419px;
+  height: 1412px;
   border-color: #4a0d0e;
   border-width: 1px;
 }
@@ -588,7 +588,7 @@
 }
 @media(max-width: 479px) {
   .general-plan-navbar-interactive {
-    width: 479px;
+    width: 478px;
     height: 173px;
     padding: var(--dl-space-space-unit);
   }
@@ -600,7 +600,14 @@
   }
   .general-plan-features-container {
     width: 100%;
-    height: 2282px;
+    height: 2273px;
+  }
+  .general-plan-slider {
+    width: 100%;
+    height: var(--dl-size-size-xxlarge);
+  }
+  .general-plan-slider-slide2 {
+    width: 478px;
   }
   .general-plan-features {
     width: 431px;
@@ -614,6 +621,7 @@
     height: 813px;
   }
   .general-plan-container3 {
+    width: 100%;
     height: 538px;
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
@@ -655,6 +663,8 @@
     font-size: 22px;
   }
   .general-plan-footer {
+    width: 100%;
+    height: 415px;
     padding: var(--dl-space-space-unit);
   }
   .general-plan-nav424 {
