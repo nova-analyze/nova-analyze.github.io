@@ -170,7 +170,7 @@
   justify-content: space-between;
 }
 .max-velocity-analysis-features-container {
-  height: 1419px;
+  height: auto;
   border-color: #4a0d0e;
   border-width: 1px;
 }
@@ -201,16 +201,16 @@
 }
 .max-velocity-analysis-features {
   gap: var(--dl-space-space-threeunits);
-  width: 100%;
-  height: 868px;
+  width: auto;
+  height: auto;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
   align-items: center;
-  padding-top: var(--dl-space-space-fourunits);
+  padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-threeunits);
   padding-right: var(--dl-space-space-threeunits);
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-fourunits);
+  padding-bottom: var(--dl-space-space-unit);
   justify-content: flex-start;
 }
 .max-velocity-analysis-container1 {
@@ -241,8 +241,8 @@
   justify-content: center;
 }
 .max-velocity-analysis-container3 {
-  width: 565px;
-  height: 545px;
+  width: auto;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   max-width: var(--dl-size-size-maxwidth);
@@ -254,8 +254,8 @@
   background-color: #000000;
 }
 .max-velocity-analysis-pricing-card {
-  width: 582px;
-  height: 391px;
+  width: auto;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   max-width: 450px;
@@ -263,7 +263,7 @@
   transition: 0.3s;
   align-items: flex-start;
   padding-top: var(--dl-space-space-twounits);
-  margin-right: var(--dl-space-space-twounits);
+  margin-right: 0px;
   padding-left: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-twounits);
   flex-direction: column;
@@ -296,12 +296,12 @@
   font-weight: 700;
 }
 .max-velocity-analysis-text18 {
-  font-size: 2rem;
+  font-size: 1.3rem;
 }
 .max-velocity-analysis-container5 {
   display: flex;
   align-items: flex-start;
-  margin-bottom: var(--dl-space-space-threeunits);
+  margin-bottom: 0px;
   flex-direction: column;
 }
 .max-velocity-analysis-text19 {
@@ -387,23 +387,6 @@
   align-items: center;
   flex-direction: row;
 }
-.max-velocity-analysis-nav122 {
-  color: #ffffff;
-  font-size: 22px;
-  font-family: "Hind";
-  font-weight: 400;
-  line-height: 150%;
-  text-decoration: none;
-}
-.max-velocity-analysis-nav222 {
-  color: #ffffff;
-  font-size: 22px;
-  font-family: "Hind";
-  font-weight: 400;
-  line-height: 150%;
-  margin-left: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .max-velocity-analysis-nav322 {
   color: #ffffff;
   font-size: 22px;
@@ -482,25 +465,35 @@
   .max-velocity-analysis-nav421 {
     color: rgb(255, 255, 255);
   }
+  .max-velocity-analysis-pricing-card {
+    margin-right: 0px;
+  }
   .max-velocity-analysis-link {
     text-decoration: underline;
   }
 }
 @media(max-width: 1200px) {
   .max-velocity-analysis-features-container {
-    height: 1455px;
+    height: auto;
   }
   .max-velocity-analysis-features {
-    height: 906px;
+    height: auto;
   }
   .max-velocity-analysis-container3 {
-    width: 514px;
-    height: 561px;
+    width: auto;
+    height: auto;
+  }
+  .max-velocity-analysis-pricing-card {
+    margin-right: 0px;
   }
 }
 @media(max-width: 991px) {
   .max-velocity-analysis-features-container {
-    height: 1494px;
+    height: auto;
+  }
+  .max-velocity-analysis-features {
+    width: auto;
+    height: auto;
   }
   .max-velocity-analysis-features-sub-heading {
     text-align: center;
@@ -508,21 +501,30 @@
     padding-right: var(--dl-space-space-threeunits);
   }
   .max-velocity-analysis-container2 {
-    width: 927px;
-    height: 724px;
+    width: auto;
+    height: auto;
   }
   .max-velocity-analysis-pricing {
     height: 699px;
   }
   .max-velocity-analysis-container3 {
-    height: 690px;
+    height: auto;
   }
   .max-velocity-analysis-pricing-card {
-    width: 306px;
-    height: 532px;
+    width: auto;
+    height: auto;
     padding: var(--dl-space-space-twounits);
     max-width: 100%;
     align-items: center;
+    margin-right: 0px;
+  }
+  .max-velocity-analysis-text23 {
+    width: auto;
+    height: auto;
+  }
+  .max-velocity-analysis-footer {
+    width: 100%;
+    height: auto;
   }
   .max-velocity-analysis-nav423 {
     color: rgb(255, 255, 255);
@@ -547,10 +549,16 @@
     justify-content: center;
   }
   .max-velocity-analysis-features-container {
-    height: 1788px;
+    width: 100%;
+    height: auto;
+  }
+  .max-velocity-analysis-slider {
+    width: 300px;
+    height: 200px;
   }
   .max-velocity-analysis-features {
-    height: 1302px;
+    width: 100%;
+    height: auto;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
@@ -559,27 +567,28 @@
     padding-right: var(--dl-space-space-unit);
   }
   .max-velocity-analysis-container2 {
-    width: 709px;
-    height: 583px;
+    width: 100%;
+    height: auto;
     grid-template-columns: 1fr;
   }
   .max-velocity-analysis-pricing {
-    width: 454px;
+    width: 435px;
     height: 584px;
   }
   .max-velocity-analysis-container3 {
-    width: 477px;
-    height: 584px;
+    width: auto;
+    height: auto;
     flex-flow: column;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
   .max-velocity-analysis-pricing-card {
     width: 100%;
+    height: auto;
     max-width: 450px;
     align-items: center;
     margin-right: 0px;
-    margin-bottom: var(--dl-space-space-twounits);
+    margin-bottom: 0px;
   }
   .max-velocity-analysis-footer {
     padding-left: var(--dl-space-space-twounits);
@@ -612,39 +621,44 @@
   }
   .max-velocity-analysis-features-container {
     width: 100%;
-    height: 2028px;
+    height: auto;
   }
   .max-velocity-analysis-slider {
-    width: 100%;
+    width: 200px;
+    height: 100px;
+  }
+  .max-velocity-analysis-slider-slide {
     height: auto;
   }
   .max-velocity-analysis-features {
-    width: 100%;
-    height: 1551px;
+    width: auto;
+    height: auto;
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
   .max-velocity-analysis-container2 {
-    width: 100%;
-    height: 907px;
+    width: auto;
+    height: auto;
   }
   .max-velocity-analysis-pricing {
-    width: 412px;
-    height: 563px;
+    width: var(--dl-size-size-xxlarge);
+    height: auto;
   }
   .max-velocity-analysis-container3 {
-    width: 410px;
-    height: 538px;
-    padding-top: var(--dl-space-space-twounits);
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-    padding-bottom: var(--dl-space-space-twounits);
+    width: auto;
+    height: auto;
+    padding: var(--dl-space-space-halfunit);
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
   }
   .max-velocity-analysis-pricing-card {
-    width: 366px;
-    height: 518px;
+    width: auto;
+    height: auto;
+    padding: 0px;
   }
   .max-velocity-analysis-text23 {
     font-size: 22px;
@@ -681,11 +695,15 @@
     color: #00ffee;
   }
   .max-velocity-analysis-footer {
-    height: 493px;
+    width: 100%;
+    height: auto;
     padding: var(--dl-space-space-unit);
   }
   .max-velocity-analysis-logo2 {
     color: rgb(255, 1, 1);
+  }
+  .max-velocity-analysis-nav1 {
+    width: 100%;
   }
   .max-velocity-analysis-nav322 {
     color: rgb(255, 255, 255);

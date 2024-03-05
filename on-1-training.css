@@ -178,7 +178,7 @@
   border: 2px dashed rgba(120, 120, 120, 0.4);
 }
 .on1-training-features-container {
-  height: 1505px;
+  height: auto;
   border-color: #4a0d0e;
   border-width: 1px;
 }
@@ -207,7 +207,7 @@
 }
 .on1-training-features {
   gap: var(--dl-space-space-threeunits);
-  width: 100%;
+  width: auto;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
   align-items: center;
@@ -242,16 +242,17 @@
 }
 .on1-training-pricing {
   width: 100%;
-  height: 711px;
+  height: auto;
   display: flex;
   justify-content: center;
 }
 .on1-training-container3 {
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
   display: flex;
-  padding: var(--dl-space-space-threeunits);
+  padding: var(--dl-space-space-halfunit);
   max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
   align-items: center;
   border-color: #22e0ab;
   border-width: 1px;
@@ -261,8 +262,8 @@
   background-color: #000000;
 }
 .on1-training-pricing-card {
-  width: 582px;
-  height: 391px;
+  width: auto;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   max-width: 450px;
@@ -270,7 +271,7 @@
   transition: 0.3s;
   align-items: flex-start;
   padding-top: var(--dl-space-space-twounits);
-  margin-right: var(--dl-space-space-twounits);
+  margin-right: 0px;
   padding-left: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-twounits);
   flex-direction: column;
@@ -302,7 +303,7 @@
   font-size: 2rem;
 }
 .on1-training-text18 {
-  font-size: 2rem;
+  font-size: 1.4rem;
 }
 .on1-training-text19 {
   margin-bottom: var(--dl-space-space-unit);
@@ -310,7 +311,7 @@
 .on1-training-container5 {
   display: flex;
   align-items: flex-start;
-  margin-bottom: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-halfunit);
   flex-direction: column;
 }
 .on1-training-text25 {
@@ -385,23 +386,6 @@
   align-items: center;
   flex-direction: row;
 }
-.on1-training-nav122 {
-  color: #ffffff;
-  font-size: 22px;
-  font-family: "Hind";
-  font-weight: 400;
-  line-height: 150%;
-  text-decoration: none;
-}
-.on1-training-nav222 {
-  color: #ffffff;
-  font-size: 22px;
-  font-family: "Hind";
-  font-weight: 400;
-  line-height: 150%;
-  margin-left: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .on1-training-nav322 {
   color: #ffffff;
   font-size: 22px;
@@ -413,7 +397,6 @@
 }
 .on1-training-nav424 {
   color: #ffffff;
-  font-size: 22px;
   font-family: "Hind";
   font-weight: 400;
   line-height: 150%;
@@ -480,13 +463,35 @@
   .on1-training-nav421 {
     color: rgb(255, 255, 255);
   }
+  .on1-training-features-container {
+    width: 100%;
+  }
+  .on1-training-container3 {
+    padding: var(--dl-space-space-oneandhalfunits);
+  }
+  .on1-training-pricing-card {
+    padding: var(--dl-space-space-halfunit);
+    margin-right: 0px;
+  }
   .on1-training-link {
     text-decoration: underline;
   }
 }
 @media(max-width: 1200px) {
+  .on1-training-features-container {
+    height: auto;
+  }
+  .on1-training-pricing {
+    width: auto;
+  }
   .on1-training-container3 {
-    height: 835px;
+    height: auto;
+    padding: var(--dl-space-space-oneandhalfunits);
+  }
+  .on1-training-pricing-card {
+    width: auto;
+    height: auto;
+    padding: 0px;
   }
   .on1-training-text15 {
     font-size: 4rem;
@@ -511,24 +516,34 @@
     text-decoration: none;
   }
   .on1-training-features-container {
-    height: 1697px;
+    height: auto;
+  }
+  .on1-training-slider {
+    width: 500px;
+    height: 300px;
   }
   .on1-training-features {
-    height: 1223px;
+    width: 100%;
+    height: auto;
   }
   .on1-training-features-sub-heading {
     text-align: center;
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
   }
+  .on1-training-pricing {
+    height: auto;
+  }
   .on1-training-container3 {
-    height: 916px;
+    height: auto;
+    max-width: auto;
   }
   .on1-training-pricing-card {
-    width: 306px;
-    height: 532px;
+    width: auto;
+    height: auto;
     padding: var(--dl-space-space-twounits);
     max-width: 100%;
+    min-height: auto;
     align-items: center;
   }
   .on1-training-container4 {
@@ -540,11 +555,17 @@
   .on1-training-text16 {
     font-size: 1.5rem;
   }
-  .on1-training-text18 {
-    font-size: 2rem;
-  }
   .on1-training-link {
+    width: auto;
+    height: auto;
     text-decoration: underline;
+  }
+  .on1-training-navlink {
+    width: auto;
+    height: auto;
+  }
+  .on1-training-footer {
+    width: 100%;
   }
 }
 @media(max-width: 767px) {
@@ -595,35 +616,52 @@
   .on1-training-features-container {
     height: 2484px;
   }
+  .on1-training-slider {
+    width: 470px;
+    height: 300px;
+  }
+  .on1-training-slider-slide {
+    height: auto;
+  }
   .on1-training-features {
-    height: 1746px;
-    padding-left: var(--dl-space-space-twounits);
-    padding-right: var(--dl-space-space-twounits);
+    width: auto;
+    height: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .on1-training-features-heading {
+    width: auto;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+    margin-right: var(--dl-space-space-oneandhalfunits);
   }
   .on1-training-features-sub-heading {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
   .on1-training-container2 {
-    height: 1736px;
+    height: auto;
     grid-template-columns: 1fr;
   }
   .on1-training-pricing {
-    height: 644px;
+    width: auto;
+    height: auto;
   }
   .on1-training-container3 {
-    width: 709px;
-    height: 100%;
+    width: auto;
+    height: auto;
     flex-flow: column;
+    max-width: auto;
+    align-self: center;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
   .on1-training-pricing-card {
-    width: 100%;
+    width: auto;
+    height: auto;
     max-width: 450px;
     align-items: center;
     margin-right: 0px;
-    margin-bottom: var(--dl-space-space-twounits);
+    margin-bottom: 0px;
   }
   .on1-training-container4 {
     width: 357px;
@@ -635,14 +673,13 @@
   .on1-training-text16 {
     font-size: 1.5rem;
   }
-  .on1-training-text18 {
-    font-size: 2rem;
-  }
   .on1-training-link {
     width: 229px;
   }
   .on1-training-text37 {
     font-size: 22px;
+    margin-left: var(--dl-space-space-twounits);
+    margin-right: var(--dl-space-space-twounits);
   }
   .on1-training-text40 {
     font-size: 22px;
@@ -708,7 +745,7 @@
 }
 @media(max-width: 479px) {
   .on1-training-navbar-interactive {
-    width: 478px;
+    width: auto;
     height: auto;
     padding: var(--dl-space-space-unit);
   }
@@ -717,50 +754,81 @@
   }
   .on1-training-features-container {
     width: 100%;
-    height: 2715px;
+    height: auto;
   }
   .on1-training-slider {
     width: 100%;
-    height: auto;
+    height: 264px;
   }
   .on1-training-slider-slide {
-    width: 478px;
-    height: 298px;
+    width: 100%;
+    height: auto;
   }
   .on1-training-features {
-    width: 100%;
-    height: 2111px;
+    width: auto;
+    height: auto;
+    min-width: auto;
     padding-top: var(--dl-space-space-twounits);
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: 0px;
+    padding-right: 0px;
     padding-bottom: var(--dl-space-space-twounits);
+  }
+  .on1-training-container1 {
+    width: auto;
+    height: auto;
   }
   .on1-training-container2 {
-    height: 1645px;
+    width: auto;
+    height: auto;
   }
   .on1-training-pricing {
-    width: 433px;
+    width: auto;
+    height: auto;
   }
   .on1-training-container3 {
-    width: 100%;
-    height: 729px;
-    padding-top: var(--dl-space-space-twounits);
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-    padding-bottom: var(--dl-space-space-twounits);
+    width: 358px;
+    height: auto;
+    padding: var(--dl-space-space-oneandhalfunits);
+    max-width: auto;
+    align-self: center;
+    margin-left: 0px;
+    padding-top: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
   }
   .on1-training-pricing-card {
-    width: 366px;
-    height: 518px;
+    width: 100%;
+    height: auto;
+    max-width: auto;
+    min-height: auto;
+    margin-bottom: 0px;
+  }
+  .on1-training-text14 {
+    width: auto;
+    height: auto;
+  }
+  .on1-training-container4 {
+    width: auto;
   }
   .on1-training-text15 {
     font-size: 4rem;
     font-weight: 700;
   }
-  .on1-training-text18 {
-    font-size: 2rem;
+  .on1-training-text19 {
+    width: auto;
+    height: auto;
+    margin-left: var(--dl-space-space-halfunit);
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .on1-training-link {
+    margin-top: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
   }
   .on1-training-text37 {
+    width: auto;
+    height: auto;
     font-size: 22px;
   }
   .on1-training-text40 {
@@ -808,19 +876,35 @@
   }
   .on1-training-footer {
     width: 100%;
-    height: 415px;
-    padding: var(--dl-space-space-unit);
+    height: auto;
+    padding: 0px;
+    padding-top: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: 0px;
+    padding-bottom: var(--dl-space-space-unit);
+  }
+  .on1-training-container6 {
+    width: 100%;
   }
   .on1-training-logo2 {
     color: rgb(255, 1, 1);
+    font-size: 2em;
+    font-family: Hind;
+    font-weight: 700;
+    line-height: 150%;
+    text-transform: uppercase;
+    text-decoration: underline;
   }
-  .on1-training-nav222 {
-    color: rgb(255, 255, 255);
+  .on1-training-nav1 {
+    width: auto;
   }
   .on1-training-nav322 {
     color: rgb(255, 255, 255);
   }
   .on1-training-nav424 {
+    color: rgb(255, 255, 255);
+  }
+  .on1-training-nav323 {
     color: rgb(255, 255, 255);
     font-size: 22px;
     font-family: Hind;
