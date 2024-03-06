@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Frequent-QA - Formal Junior Lapwing</title>
+    <meta property="og:title" content="Frequent-QA - Formal Junior Lapwing" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+    <style>
+      @keyframes fade-in-left {
+        0% {
+          opacity: 0;
+          transform: translateX(-20px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <link rel="stylesheet" href="./style.css" />
+    <div>
+      <link href="./frequent-qa.css" rel="stylesheet" />
+
+      <div class="frequent-qa-container">
+        <header
+          data-thq="thq-navbar"
+          class="navbarContainer frequent-qa-navbar-interactive"
+        >
+          <a href="index.html" class="frequent-qa-logo">
+            Nova Athletic Biomechanics online clinic
+          </a>
+          <div data-thq="thq-navbar-nav" class="frequent-qa-desktop-menu">
+            <nav class="frequent-qa-links">
+              <a href="index.html" class="frequent-qa-nav12">Home</a>
+              <a href="index.html" class="frequent-qa-nav22">Service</a>
+              <a href="frequent-qa.html" class="frequent-qa-nav32">
+                Frequent Q&amp;A
+              </a>
+              <a href="#contact info" class="frequent-qa-nav42">Contact</a>
+              <a href="privacy.html" class="frequent-qa-nav421">Policy</a>
+            </nav>
+            <div class="frequent-qa-buttons"></div>
+          </div>
+          <div data-thq="thq-burger-menu" class="frequent-qa-burger-menu">
+            <svg viewBox="0 0 1024 1024" class="frequent-qa-icon socialIcons">
+              <path
+                d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"
+              ></path>
+            </svg>
+          </div>
+          <div
+            data-thq="thq-mobile-menu"
+            class="frequent-qa-mobile-menu1 mobileMenu"
+          >
+            <div class="frequent-qa-nav">
+              <div class="frequent-qa-top">
+                <span class="logo frequent-qa-logo1">BIOMECHANICS</span>
+                <div data-thq="thq-close-menu" class="frequent-qa-close-menu">
+                  <svg
+                    viewBox="0 0 1024 1024"
+                    class="frequent-qa-icon2 socialIcons"
+                  >
+                    <path
+                      d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
+                    ></path>
+                  </svg>
+                </div>
+              </div>
+              <nav class="frequent-qa-links1">
+                <a href="index.html" class="frequent-qa-nav121">Home</a>
+                <a href="index.html" class="frequent-qa-nav221">Service</a>
+                <a href="frequent-qa.html" class="frequent-qa-nav321">
+                  Q&amp;A
+                </a>
+                <a href="#contact info" class="frequent-qa-nav422">Contact</a>
+                <a href="privacy.html" class="frequent-qa-nav423">Policy</a>
+              </nav>
+              <div class="frequent-qa-buttons1"></div>
+            </div>
+            <div class="frequent-qa-icon-group"></div>
+          </div>
+        </header>
+        <div class="frequent-qa-faq-container faqContainer">
+          <span class="frequent-qa-text">
+            <br class="frequent-qa-text001" />
+            <br class="frequent-qa-text002" />
+            <span class="frequent-qa-text003">Frequently Asked Questions</span>
+            <br class="frequent-qa-text004" />
+            <br class="frequent-qa-text005" />
+            <span class="frequent-qa-text006">
+              Q: How long does it take to analyze our video?
+            </span>
+            <br class="frequent-qa-text007" />
+            <br class="frequent-qa-text008" />
+            <span>
+              A: Generally, all analysis (block start + max velocity) will be
+              done in 1 day.
+            </span>
+            <br />
+            <br class="frequent-qa-text011" />
+            <br />
+            <br class="frequent-qa-text013" />
+            <span class="frequent-qa-text014">Q: Any Discount?</span>
+            <br />
+            <br class="frequent-qa-text016" />
+            <span>
+              A: The first 300 buyers will have a 25% off for their first order
+              (choose any order). We will post our coupon code in our video
+              comments section.
+            </span>
+            <br />
+            <br class="frequent-qa-text019" />
+            <br />
+            <br class="frequent-qa-text021" />
+            <span class="frequent-qa-text022">
+              Q: I sent you the video/messages /emails/ questions, reply so
+              slow? (What is your working hour)
+            </span>
+            <br />
+            <br class="frequent-qa-text024" />
+            <span>
+              A: We promise the running analysis will be done in 1 day.
+              Message/email/reply may vary depends on the Working Hours:
+            </span>
+            <br />
+            <br class="frequent-qa-text027" />
+            <span>Every day from 10AM to 1PM,</span>
+            <br />
+            <br class="frequent-qa-text030" />
+            <span>2PM to 6PM,</span>
+            <br />
+            <br class="frequent-qa-text033" />
+            <span>10PM to 23:59PM,</span>
+            <br />
+            <br class="frequent-qa-text036" />
+            <span>Time zone GMT-5</span>
+            <br />
+            <br class="frequent-qa-text039" />
+            <br />
+            <br class="frequent-qa-text041" />
+            <span class="frequent-qa-text042">Q: Pay once, analyze once?</span>
+            <br />
+            <br class="frequent-qa-text044" />
+            <span>
+              A: No, once analysis payment made, your information will be stored
+              in the database, and then you have unlimited times to analyze. Pay
+              once, lifelong analysis.
+            </span>
+            <br />
+            <br class="frequent-qa-text047" />
+            <br />
+            <br class="frequent-qa-text049" />
+            <span class="frequent-qa-text050">
+              Q: What data source do you use?
+            </span>
+            <br />
+            <br class="frequent-qa-text052" />
+            <span>
+              A: Data mainly obtained from Dr. Ralph Mann’s book, The Mechanics
+              of Sprinting and Hurdling
+            </span>
+            <br />
+            <br class="frequent-qa-text055" />
+            <br />
+            <br class="frequent-qa-text057" />
+            <span class="frequent-qa-text058">
+              Q: After analysis, what else can we get?
+            </span>
+            <br />
+            <br class="frequent-qa-text060" />
+            <span>
+              A: We will provide you a general training idea and structure to
+              improve your weakness, it may contain videos (exercise examples).
+              You can also send videos to let us check whether your forms
+              (running form/gym exercises) are correct.
+            </span>
+            <br />
+            <br class="frequent-qa-text063" />
+            <br />
+            <br class="frequent-qa-text065" />
+            <span class="frequent-qa-text066">
+              Q: Do you only analyze sprinters mechanics?
+            </span>
+            <br />
+            <br class="frequent-qa-text068" />
+            <span>
+              A: We will develop models for hurdlers, long jumpers, and probably
+              shot put athletes (glide technique). All these sports will be
+              updated soon.
+            </span>
+            <br />
+            <br class="frequent-qa-text071" />
+            <br />
+            <br class="frequent-qa-text073" />
+            <span class="frequent-qa-text074">
+              Q: What service do you recommend to purchase?
+            </span>
+            <br />
+            <br class="frequent-qa-text076" />
+            <span>
+              A: Beginner athletes we recommend you to purchase the General
+              Sprint Training Plan only.
+            </span>
+            <br />
+            <br class="frequent-qa-text079" />
+            <span>
+              If your average 100m time is between (Men 10.4 to 11.8) (Women
+              11.2s to 12.7s), we highly recommend you to purchase Biomechanics
+              Analysis.
+            </span>
+            <br />
+            <br class="frequent-qa-text082" />
+            <span>
+              If you want to see a huge progress in a short period of time (4
+              months), and you can make sure that you will keep your training
+              consistency, we recommend you to purchase 1 on 1 training.
+            </span>
+            <br />
+            <br class="frequent-qa-text085" />
+            <br />
+            <br class="frequent-qa-text087" />
+            <span class="frequent-qa-text088">
+              Q: Is there a refund policy?
+            </span>
+            <br />
+            <br class="frequent-qa-text090" />
+            <span>
+              A: Yes, you can request the refund before the completion of
+              analysis task, for example, if you think the analysis process
+              takes too long time (more than 24 hours), you can request the
+              refund immediately through the Stripe platform, once the analysis
+              is done and has been sent to you, no refund.
+            </span>
+            <br />
+            <br class="frequent-qa-text093" />
+            <br />
+            <br class="frequent-qa-text095" />
+            <span class="frequent-qa-text096">
+              Q: Why you refuse to answer some of my questions?
+            </span>
+            <br />
+            <br class="frequent-qa-text098" />
+            <span>
+              A: If you purchased Block Start Analysis only, but repeatedly
+              asking us about Max Velocity questions, it’s not fair for those
+              athletes who have spent more money on “Max Velocity Analysis” or
+              “1 on 1 training”. We will make sure your questions and our
+              answers are fair for every member under this condition.
+            </span>
+            <br />
+            <br class="frequent-qa-text101" />
+            <br />
+            <br class="frequent-qa-text103" />
+            <span class="frequent-qa-text104">
+              Q: I think the price is a little bit expensive.
+            </span>
+            <br class="frequent-qa-text105" />
+            <br class="frequent-qa-text106" />
+            <span>A: a.</span>
+            <span class="frequent-qa-text108">Pay once, lifelong analysis</span>
+            <span>
+              , it’s like you hire a personal sports analyst forever. Most of
+              the analysis platform/software online only provide limited times,
+              but we don’t.
+            </span>
+            <br />
+            <br class="frequent-qa-text111" />
+            <span>
+              b. Most sports analysis software just simply detects your body
+              structure, but you don’t know what is your personal ideal position
+              (you cannot see what’s the difference between you and a world top
+              level you), but we can let you know with our model and you can see
+              them clearly.
+            </span>
+            <br />
+            <br class="frequent-qa-text114" />
+            <span>
+              c. The model was trained and will be applied on your video. The
+              model’s training takes time and the model application on your
+              video also takes 30K+ testing epochs with the RTX4090 to get the
+              maximum accuracy. All these processes(pricing) are the combination
+              of Work time + CS/sports knowledge + Biomechanics + Electricity
+              bill + Tax + Reduction of desktop life expectancy.
+            </span>
+            <br />
+            <br />
+            <br class="frequent-qa-text118" />
+            <span class="frequent-qa-text119">
+              Q: Keep the price level? or it will increase in the future?
+            </span>
+            <br class="frequent-qa-text120" />
+            <span>
+              A: After the first 300 purchase, all the price will increase by
+              20% to 33% depend on the workload, feedback, and other factors.
+              Guys purchase as soon as possible.
+            </span>
+            <br class="frequent-qa-text122" />
+            <br />
+            <br class="frequent-qa-text124" />
+            <span class="frequent-qa-text125">
+              Q: Can you analyze me every single day?
+            </span>
+            <br />
+            <br class="frequent-qa-text127" />
+            <span>
+              A: Although you get unlimited times of analysis, we still
+              recommend you to send videos once/twice per month, your progress
+              takes time, even some running forms cannot be changed in one
+              month. Take more time on your training/exercise/improvement.
+            </span>
+            <br />
+            <br class="frequent-qa-text130" />
+          </span>
+        </div>
+        <footer class="footerContainer frequent-qa-footer">
+          <div class="frequent-qa-container1">
+            <a href="index.html" class="frequent-qa-logo2">
+              Nova Athletic BIOMECHANICS online clinic
+            </a>
+            <nav class="frequent-qa-nav1">
+              <a href="#contact info" class="frequent-qa-nav424">
+                <span class="bodySmall">&nbsp;</span>
+                <span class="frequent-qa-text132">Contact</span>
+              </a>
+              <a href="privacy.html" class="frequent-qa-nav322">Policy</a>
+            </nav>
+          </div>
+          <div class="frequent-qa-separator"></div>
+          <div class="frequent-qa-container2">
+            <span class="frequent-qa-text133 bodySmall">
+              © 2024 Nova Athletics biomechanics online clinic, All Rights
+              Reserved.
+            </span>
+            <div class="frequent-qa-icon-group1">
+              <span id="contact info" class="frequent-qa-text134">
+                Email: donktr17@gmail.com&nbsp; &nbsp; &nbsp;
+              </span>
+              <a
+                href="https://www.instagram.com/nova_track_club_official/reels/"
+                target="_blank"
+                rel="noreferrer noopener"
+                class="frequent-qa-link"
+              >
+                <svg
+                  viewBox="0 0 877.7142857142857 1024"
+                  class="frequent-qa-icon4 socialIcons"
+                >
+                  <path
+                    d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <script
+      data-section-id="navbar"
+      src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
+    ></script>
+  </body>
+</html>

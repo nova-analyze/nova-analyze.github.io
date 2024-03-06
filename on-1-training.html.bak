@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Privacy</title>
-    <meta property="og:title" content="Privacy">
+    <title>1-on-1-training</title>
+    <meta property="og:title" content="1-on-1-training">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="twitter:card" content="summary_large_image">
     <style data-tag="reset-style-sheet">
@@ -264,129 +264,161 @@
   <body> 
     <link rel="stylesheet" href="./style.css">
     <div>
-      <link href="./privacy.css" rel="stylesheet">
-      <div class="privacy-container">
-        <header data-thq="thq-navbar" class="navbarContainer privacy-navbar-interactive">
-          <a href="index.html" class="privacy-logo"> Nova Athletic Biomechanics
-            online clinic </a>
-          <div data-thq="thq-navbar-nav" class="privacy-desktop-menu">
-            <nav class="privacy-links"> <a href="index.html" class="privacy-nav12">Home</a>
-              <a href="index.html" class="privacy-nav22">Service</a> <a href="frequent-qa.html"
+      <link href="./on-1-training.css" rel="stylesheet">
+      <div class="on1-training-container">
+        <header data-thq="thq-navbar" class="navbarContainer on1-training-navbar-interactive">
+          <a href="index.html" class="on1-training-logo"> Nova Athletic
+            Biomechanics online clinic </a>
+          <div data-thq="thq-navbar-nav" class="on1-training-desktop-menu">
+            <nav class="on1-training-links"> <a href="index.html" class="on1-training-nav12">Home</a>
+              <a href="index.html" class="on1-training-nav22">Service</a> <a href="frequent-qa.html"
 
-                class="privacy-nav32"> Frequent Q&amp;A </a> <a href="#contact%20info"
+                class="on1-training-nav32"> Frequent Q&amp;A </a> <a href="#contact%20info"
 
-                class="privacy-nav42">Contact</a> </nav>
-            <div class="privacy-buttons"></div>
+                class="on1-training-nav42">Contact</a> <a href="privacy.html" class="on1-training-nav421">Policy</a>
+            </nav>
+            <div class="on1-training-buttons"></div>
           </div>
-          <div data-thq="thq-burger-menu" class="privacy-burger-menu">
-            <svg viewBox="0 0 1024 1024" class="privacy-icon socialIcons">
+          <div data-thq="thq-burger-menu" class="on1-training-burger-menu">
+            <svg viewBox="0 0 1024 1024" class="on1-training-icon socialIcons">
               <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
             </svg> </div>
-          <div data-thq="thq-mobile-menu" class="privacy-mobile-menu1 mobileMenu">
-            <div class="privacy-nav">
-              <div class="privacy-top"> <span class="privacy-logo1 logo">BIOMECHANICS</span>
-                <div data-thq="thq-close-menu" class="privacy-close-menu">
-                  <svg viewBox="0 0 1024 1024" class="privacy-icon2 socialIcons">
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg> </div>
+          <div data-thq="thq-mobile-menu" class="on1-training-mobile-menu1 mobileMenu">
+            <nav class="on1-training-links1"> <a href="index.html" class="on1-training-nav321">home</a>
+              <a href="frequent-qa.html" class="on1-training-nav322">Q&amp;A</a>
+              <a href="#contact%20info" class="on1-training-nav422">email</a> <a
+
+                href="privacy.html" class="on1-training-nav423">Policy</a> </nav>
+            <div class="on1-training-container1">
+              <div class="on1-training-nav">
+                <div class="on1-training-top">
+                  <div data-thq="thq-close-menu" class="on1-training-close-menu">
+                    <svg viewBox="0 0 1024 1024" class="on1-training-icon2 socialIcons">
+                      <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                    </svg> </div>
+                </div>
+                <div class="on1-training-buttons1"></div>
               </div>
-              <nav class="privacy-links1"> <span class="privacy-nav121">Home</span>
-                <span class="privacy-nav221">Service</span> <span class="privacy-nav321">Q&amp;A</span>
-                <span class="privacy-nav421">Contact</span> </nav>
-              <div class="privacy-buttons1"></div>
             </div>
+            <div class="on1-training-icon-group"></div>
           </div>
         </header>
-        <div class="privacy-faq-container faqContainer"> <span class="privacy-text">
-            <br class="privacy-text01">
-            <br class="privacy-text02">
-            <span class="privacy-text03">Privacy Policy</span> <br class="privacy-text04">
-            <br>
-            <br>
-            <span> At our website, we take your privacy seriously. This Privacy
-              Policy explains how we collect, use, and disclose your personal
-              information when you use our website, send videos through emails
-              or Instagram. By visiting and using our website, you agree to the
-              terms of this Privacy Policy. </span> <br>
-            <br class="privacy-text09">
-            <span class="privacy-text10">Collection of Information</span> <br>
-            <span> We collect information that you provide to us, such as your
-              name, training information, email address, and other contact
-              information. </span> <br>
-            <span></span> <br>
-            <br>
-            <span class="privacy-text17">Use of Information</span> <br>
-            <span> We may use the information you give to us such as training
-              feedback, website technical issues, or your emails to improve our
-              website and service. </span> <br>
-            <br>
-            <br>
-            <span class="privacy-text23">Disclosure of Information</span> <br>
-            <span> We will ask your approval first to upload your training/race
-              to our social media or website. </span> <span class="privacy-text26">
-              Without your approval, we will not disclose your information
-              (upload your video on social media). </span> <br>
-            <br>
-            <br>
-            <span class="privacy-text30">Cookies</span> <br>
-            <span>No Cookies</span> <br>
-            <br>
-            <br>
-            <span class="privacy-text36">Payment Security</span> <br>
-            <span> We do not host the payment website/page, we use Stripe to
-              process the payment, a trust worthy website for millions of people
-              and companies. </span> <span class="privacy-text39"> We don't
-              keep billing address, the billing address is for tax calculation
-              only. </span> <br>
-            <br>
-            <br>
-            <span class="privacy-text43">Links to Other Websites</span> <br>
-            <span> Our website may contain links to other websites such as
-              Stripe and Instagram that are not operated by us. We are not
-              responsible for the privacy practices of these websites, and you
-              should read their privacy policies before providing any personal
-              information. </span> <br>
-            <br>
-            <br>
-            <span class="privacy-text49">Children's Privacy</span> <br>
-            <span> Our website is not intended for children under the age of 13,
-              and we do not knowingly collect personal information from children
-              under the age of 13. If you are a parent or guardian and believe
-              that your child has provided us with personal information, please
-              contact us, and we will delete the information. </span> <br>
-            <br>
-            <br>
-            <span class="privacy-text55">Changes to this Privacy Policy</span> <br>
-            <span> We may update this Privacy Policy from time to time. We will
-              notify you of any changes by posting the new Privacy Policy on our
-              website. You are advised to review this Privacy Policy
-              periodically for any changes. </span> <br>
-            <br>
-            <br>
-            <span class="privacy-text61">Advertising</span> <br>
-            <br>
-            <span>No Advertising</span> <br>
-            <br>
-            <br>
-            <span>By using our website, you agree to our Privacy Policy.</span>
-          </span> </div>
-        <footer class="footerContainer privacy-footer">
-          <div class="privacy-container1"> <a href="index.html" class="privacy-logo2">
-              Nova Athletic BIOMECHANICS online clinic </a>
-            <nav class="privacy-nav1"> <a href="index.html" class="privacy-nav222">Service</a>
-              <a href="frequent-qa.html" class="privacy-nav322"> Frequent
-                Q&amp;A </a> <a href="#contact%20info" class="privacy-nav422">Contact</a>
-            </nav>
+        <div class="on1-training-features-container featuresContainer">
+          <div data-thq="slider" data-navigation="true" data-pagination="true" class="on1-training-slider swiper">
+            <div data-thq="slider-wrapper" class="swiper-wrapper">
+              <div data-thq="slider-slide" class="on1-training-slider-slide swiper-slide"></div>
+              <div data-thq="slider-slide" class="on1-training-slider-slide1 swiper-slide"></div>
+              <div data-thq="slider-slide" class="on1-training-slider-slide2 swiper-slide"></div>
+            </div>
+            <div data-thq="slider-pagination" class="on1-training-slider-pagination swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal">
+              <div data-thq="slider-pagination-bullet" class="swiper-pagination-bullet swiper-pagination-bullet-active"></div>
+              <div data-thq="slider-pagination-bullet" class="swiper-pagination-bullet"></div>
+              <div data-thq="slider-pagination-bullet" class="swiper-pagination-bullet"></div>
+            </div>
+            <div data-thq="slider-button-prev" class="swiper-button-prev"></div>
+            <div data-thq="slider-button-next" class="swiper-button-next"></div>
           </div>
-          <div class="privacy-separator"></div>
-          <div class="privacy-container2"> <span class="privacy-text69 bodySmall">
+          <div class="on1-training-features">
+            <div class="on1-training-container2">
+              <h2 class="on1-training-features-heading"> 1 on 1 Personal Sprint
+                Training Program </h2>
+              <span class="on1-training-features-sub-heading bodyLarge"> <span>
+                  <span> <span> Discover how our biomechanics analysis can take
+                      your performance to the next level </span> <span></span>
+                  </span> <span> <span></span> <span></span> </span> </span>
+                <span> <span> <span></span> <span></span> </span> <span> <span></span>
+                    <span></span> </span> </span> </span> </div>
+            <div class="on1-training-container3">
+              <div class="on1-training-pricing">
+                <div class="on1-training-container4">
+                  <div class="on1-training-pricing-card"> <span class="on1-training-text14">
+                      1 on 1 Sprint training </span>
+                    <div class="on1-training-container5"> <span class="on1-training-text15">
+                        <span class="on1-training-text16">CA</span> <span class="on1-training-text17">$</span>
+                        <span class="on1-training-text18">599</span> <span>/</span>
+                        <span class="on1-training-text20">4months</span> </span>
+                    </div>
+                    <span class="on1-training-text21"> <span>✔ Get Faster
+                        Efficiently in 4 months</span> <br>
+                      <br>
+                      <span>✔ Daily monitor through Email or Instagram</span> <br>
+                    </span>
+                    <div class="on1-training-container6"> <span class="on1-training-text27">
+                        <span> ✔ Personalized Sprint Training Plan with Super </span>
+                        <br>
+                        <span>&nbsp; &nbsp; &nbsp;Comprehensive Details</span> <br>
+                        <br>
+                        <span>✔ Perform Full Evaluation</span> <br>
+                        <br>
+                        <span>✔ Unlimited Access to Biomechanics analysis</span>
+                      </span> <span class="on1-training-text37"> ✔ Unlimited
+                        Q&amp;A </span> <span class="on1-training-text38"> ✔
+                        Unlimited Q&amp;A regarding this plan </span> </div>
+                  </div>
+                  <a href="https://buy.stripe.com/9AQ6pkcD99gc5oY146" target="_blank"
+
+                    rel="noreferrer noopener" class="on1-training-link button">
+                    Buy Now </a> </div>
+              </div>
+              <span class="on1-training-text39"> <br>
+                <span> -- Design personal training programs for personal need (4
+                  months) </span> <br class="on1-training-text42">
+                <br>
+                <span> -- For those athletes who want to get faster efficiently
+                </span> <br class="on1-training-text45">
+                <br>
+                <span> -- Professionals will ask your trainings /breaks/diet
+                  /sleep hours /injuries conditions every day. </span> <br class="on1-training-text48">
+                <br>
+                <span> -- Professionals will give suggestions on your trainings
+                  /recovery/food /water/sleep/injuries/ etc. </span> <br class="on1-training-text51">
+                <br>
+                <span>-- Unlimited Q&amp;A of any question</span> <br class="on1-training-text54">
+                <br>
+                <span>-- Unlimited biomechanics analysis</span> <a href="https://github.com/nova-analyze/nova-analyze.github.io/raw/main/instruction.docx"
+
+                  target="_blank" rel="noreferrer noopener" class="on1-training-link1">
+                  (download camera setting instructions) </a> <br class="on1-training-text57">
+                <br class="on1-training-text58">
+                <span>-- Need to fill out the</span> <a href="https://github.com/nova-analyze/nova-analyze.github.io/raw/main/Personal%20information.docx"
+
+                  target="_blank" rel="noreferrer noopener" class="on1-training-link2">
+                  personal information (download) </a> <br>
+                <br>
+                <span>-- One payment match to one athlete</span> <br class="on1-training-text63">
+                <br class="on1-training-text64">
+                <span class="on1-training-text65">--</span> <span class="on1-training-text66">
+                  Billed Every 4 Months, cancel anytime </span> <br class="on1-training-text67">
+                <br>
+                <span> -- Training starts from the day you receive our personal
+                  plan, lasts 4 months (120 days). </span> <br class="on1-training-text70">
+                <br>
+                <span> -- For those who can keep the training consistency and
+                  take our suggestions seriously. </span> <br class="on1-training-text73">
+                <br>
+                <br>
+                <br>
+              </span> </div>
+          </div>
+          <a href="block-start-analysis.html" class="on1-training-navlink button">
+            <span class="on1-training-text77"> <span>Next --&gt;</span> <br>
+              <span>Block Start Analysis</span> </span> </a> </div>
+        <footer class="footerContainer on1-training-footer">
+          <div class="on1-training-container7"> <a href="index.html" class="on1-training-logo1">
+              Nova Athletic BIOMECHANICS online clinic </a>
+            <nav class="on1-training-nav1"> <a href="frequent-qa.html" class="on1-training-nav323">
+                Frequent Q&amp;A </a> <a href="#contact%20info" class="on1-training-nav424">Contact</a>
+              <a href="privacy.html" class="on1-training-nav324">Policy</a> </nav>
+          </div>
+          <div class="on1-training-separator"></div>
+          <div class="on1-training-container8"> <span class="on1-training-text81 bodySmall">
               © 2024 Nova Athletics biomechanics online clinic, All Rights
               Reserved. </span>
-            <div class="privacy-icon-group"> <span id="contact info" class="privacy-text70">
+            <div class="on1-training-icon-group1"> <span id="contact info" class="on1-training-text82">
                 Email: donktr17@gmail.com&nbsp; &nbsp; &nbsp; </span> <a href="https://www.instagram.com/nova_track_club_official/reels/"
 
-                target="_blank" rel="noreferrer noopener" class="privacy-link">
-                <svg viewBox="0 0 877.7142857142857 1024" class="privacy-icon4 socialIcons">
+                target="_blank" rel="noreferrer noopener" class="on1-training-link3">
+                <svg viewBox="0 0 877.7142857142857 1024" class="on1-training-icon4 socialIcons">
                   <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
                 </svg> </a> </div>
           </div>

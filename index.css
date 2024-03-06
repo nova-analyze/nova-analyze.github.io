@@ -314,8 +314,8 @@
 }
 .home-hero-heading1 {
   color: rgb(255, 0, 0);
-  width: 742px;
-  height: 160px;
+  width: auto;
+  height: auto;
   padding: var(--dl-space-space-oneandhalfunits);
   font-size: 38px;
   max-width: 800px;
@@ -371,16 +371,7 @@
   text-decoration: none;
 }
 .home-banner {
-  flex: 0 0 auto;
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.home-banner1 {
-  height: 398px;
   position: relative;
   border-color: var(--dl-color-gray-black);
   border-width: 0px;
@@ -582,7 +573,8 @@
     font-weight: 700;
     line-height: 150%;
   }
-  .home-banner1 {
+  .home-banner {
+    width: 100%;
     height: auto;
   }
 }
@@ -628,8 +620,8 @@
   .home-features1 {
     height: 100%;
   }
-  .home-banner1 {
-    height: 361px;
+  .home-banner {
+    height: auto;
   }
   .home-banner-button {
     width: auto;
@@ -730,7 +722,7 @@
   .home-container2 {
     grid-template-columns: 1fr;
   }
-  .home-banner1 {
+  .home-banner {
     height: auto;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -861,7 +853,7 @@
     width: auto;
     height: auto;
   }
-  .home-banner1 {
+  .home-banner {
     width: 100%;
     height: auto;
     padding-top: var(--dl-space-space-twounits);

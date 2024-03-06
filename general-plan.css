@@ -97,6 +97,13 @@
   flex-direction: column;
   justify-content: space-between;
 }
+.general-plan-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+}
 .general-plan-nav {
   height: 260px;
   display: flex;
@@ -110,9 +117,6 @@
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.general-plan-logo1 {
-  color: #ff0000;
-}
 .general-plan-close-menu {
   display: flex;
   align-items: center;
@@ -123,30 +127,20 @@
   cursor: pointer;
   height: var(--dl-size-size-xsmall);
 }
+.general-plan-buttons1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
 .general-plan-links1 {
   flex: 0 0 auto;
   display: flex;
   align-self: flex-end;
   align-items: flex-start;
   flex-direction: column;
-}
-.general-plan-nav121 {
-  color: #fbfbfb;
-  font-size: 22px;
-  font-family: Hind;
-  font-weight: 400;
-  line-height: 150%;
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.general-plan-nav221 {
-  color: #ffffff;
-  font-size: 22px;
-  font-family: Hind;
-  font-weight: 400;
-  line-height: 150%;
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
 }
 .general-plan-nav321 {
   color: rgb(255, 255, 255);
@@ -174,14 +168,6 @@
   line-height: 150%;
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
-}
-.general-plan-buttons1 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  margin-top: var(--dl-space-space-unit);
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
 }
 .general-plan-icon-group {
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -228,7 +214,7 @@
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: flex-start;
 }
-.general-plan-container1 {
+.general-plan-container2 {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -243,7 +229,7 @@
   font-size: 18px;
   text-align: center;
 }
-.general-plan-container2 {
+.general-plan-container3 {
   display: grid;
   grid-gap: var(--dl-space-space-oneandhalfunits);
   position: relative;
@@ -255,7 +241,7 @@
   display: flex;
   justify-content: center;
 }
-.general-plan-container3 {
+.general-plan-container4 {
   width: auto;
   height: auto;
   display: flex;
@@ -273,8 +259,8 @@
   height: auto;
   display: flex;
   padding: var(--dl-space-space-threeunits);
-  max-width: 450px;
-  min-height: 450px;
+  max-width: auto;
+  min-height: auto;
   transition: 0.3s;
   align-items: flex-start;
   padding-top: var(--dl-space-space-twounits);
@@ -295,7 +281,7 @@
   margin-bottom: var(--dl-space-space-twounits);
   text-transform: uppercase;
 }
-.general-plan-container4 {
+.general-plan-container5 {
   display: flex;
   align-items: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -310,25 +296,22 @@
   font-size: 4rem;
   font-weight: 700;
 }
-.general-plan-text23 {
-  font-size: 1.3rem;
-}
-.general-plan-container5 {
+.general-plan-container6 {
   display: flex;
   align-items: flex-start;
   margin-bottom: 3px;
   flex-direction: column;
 }
+.general-plan-text21 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.general-plan-text22 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.general-plan-text23 {
+  margin-bottom: var(--dl-space-space-unit);
+}
 .general-plan-text24 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.general-plan-text25 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.general-plan-text26 {
-  margin-bottom: var(--dl-space-space-unit);
-}
-.general-plan-text27 {
   margin-bottom: var(--dl-space-space-unit);
 }
 .general-plan-link {
@@ -353,7 +336,7 @@
   text-decoration: underline;
   background-color: rgb(0, 255, 212);
 }
-.general-plan-text28 {
+.general-plan-text25 {
   width: auto;
   font-size: 22px;
 }
@@ -367,12 +350,12 @@
   text-decoration: underline;
   background-color: #00fff1;
 }
-.general-plan-text52 {
+.general-plan-text49 {
   font-size: 25px;
   text-align: center;
   font-weight: 700;
 }
-.general-plan-container6 {
+.general-plan-container7 {
   gap: var(--dl-space-space-unit);
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
@@ -380,7 +363,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.general-plan-logo2 {
+.general-plan-logo1 {
   color: rgb(255, 1, 1);
   font-size: 2em;
   font-family: "Hind";
@@ -441,7 +424,7 @@
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.general-plan-container7 {
+.general-plan-container8 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -449,7 +432,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.general-plan-text56 {
+.general-plan-text53 {
   color: #f6ff9a;
 }
 .general-plan-icon-group1 {
@@ -458,7 +441,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.general-plan-text57 {
+.general-plan-text54 {
   color: rgb(255, 255, 255);
 }
 .general-plan-link1 {
@@ -476,7 +459,7 @@
   }
 }
 @media(max-width: 1200px) {
-  .general-plan-container3 {
+  .general-plan-container4 {
     height: 633px;
   }
 }
@@ -491,7 +474,7 @@
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
   }
-  .general-plan-container3 {
+  .general-plan-container4 {
     height: 690px;
   }
   .general-plan-pricing-card {
@@ -501,11 +484,23 @@
     max-width: 100%;
     align-items: center;
   }
+  .general-plan-container5 {
+    align-self: flex-start;
+  }
 }
 @media(max-width: 767px) {
   .general-plan-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
+  }
+  .general-plan-logo {
+    color: rgb(255, 1, 7);
+    font-size: 2em;
+    font-family: Hind;
+    font-weight: 700;
+    line-height: 150%;
+    text-transform: uppercase;
+    text-decoration: underline;
   }
   .general-plan-desktop-menu {
     display: none;
@@ -514,6 +509,20 @@
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+  .general-plan-mobile-menu1 {
+    height: auto;
+    padding: var(--dl-space-space-halfunit);
+  }
+  .general-plan-container1 {
+    height: 146px;
+  }
+  .general-plan-nav {
+    height: 68px;
+  }
+  .general-plan-links1 {
+    width: 80px;
+    height: 114px;
   }
   .general-plan-nav423 {
     color: rgb(255, 255, 255);
@@ -528,6 +537,7 @@
   }
   .general-plan-slider {
     width: 450px;
+    height: var(--dl-size-size-xxlarge);
   }
   .general-plan-features {
     width: 100%;
@@ -542,28 +552,28 @@
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .general-plan-container2 {
+  .general-plan-container3 {
     width: 100%;
     grid-template-columns: 1fr;
   }
   .general-plan-pricing {
     width: auto;
   }
-  .general-plan-container3 {
+  .general-plan-container4 {
     width: 100%;
-    height: 600px;
+    height: auto;
     flex-flow: column;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
   .general-plan-pricing-card {
-    width: 354px;
-    height: 459px;
+    width: auto;
+    height: auto;
     max-width: auto;
     min-height: auto;
     align-items: center;
     margin-right: 0px;
-    margin-bottom: var(--dl-space-space-twounits);
+    margin-bottom: 0px;
   }
   .general-plan-footer {
     padding-left: var(--dl-space-space-twounits);
@@ -575,12 +585,12 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .general-plan-container7 {
+  .general-plan-container8 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
   }
-  .general-plan-text56 {
+  .general-plan-text53 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -593,8 +603,12 @@
   .general-plan-mobile-menu1 {
     padding: 16px;
   }
-  .general-plan-logo1 {
-    color: #f70202;
+  .general-plan-container1 {
+    height: auto;
+  }
+  .general-plan-links1 {
+    align-items: center;
+    justify-content: flex-start;
   }
   .general-plan-features-container {
     width: 100%;
@@ -603,6 +617,9 @@
   .general-plan-slider {
     width: 300px;
     height: 200px;
+  }
+  .general-plan-slider-slide {
+    height: 203px;
   }
   .general-plan-slider-slide2 {
     width: 478px;
@@ -615,19 +632,19 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .general-plan-container1 {
+  .general-plan-container2 {
     width: 100%;
   }
   .general-plan-features-heading {
     width: auto;
   }
-  .general-plan-container2 {
+  .general-plan-container3 {
     width: 100%;
     height: auto;
   }
-  .general-plan-container3 {
+  .general-plan-container4 {
     width: var(--dl-size-size-xxlarge);
-    height: 638px;
+    height: auto;
     max-width: 100%;
     min-width: 100%;
     padding-top: var(--dl-space-space-twounits);
@@ -637,35 +654,32 @@
   }
   .general-plan-pricing-card {
     width: 100%;
-    height: 586px;
+    height: auto;
   }
   .general-plan-text20 {
     width: auto;
     font-size: 4rem;
     font-weight: 700;
   }
-  .general-plan-text21 {
-    font-size: 3.4rem;
-  }
-  .general-plan-text23 {
-    font-size: 2rem;
-  }
-  .general-plan-container5 {
+  .general-plan-container6 {
     width: auto;
     height: auto;
   }
-  .general-plan-text28 {
+  .general-plan-text25 {
     font-size: 22px;
     margin-left: var(--dl-space-space-twounits);
     margin-right: var(--dl-space-space-twounits);
   }
+  .general-plan-text29 {
+    font-size: 22px;
+  }
+  .general-plan-text30 {
+    font-size: 22px;
+  }
+  .general-plan-text31 {
+    font-size: 22px;
+  }
   .general-plan-text32 {
-    font-size: 22px;
-  }
-  .general-plan-text33 {
-    font-size: 22px;
-  }
-  .general-plan-text34 {
     font-size: 22px;
   }
   .general-plan-text35 {
@@ -674,16 +688,13 @@
   .general-plan-text38 {
     font-size: 22px;
   }
-  .general-plan-text41 {
+  .general-plan-text39 {
     font-size: 22px;
   }
   .general-plan-text42 {
     font-size: 22px;
   }
   .general-plan-text45 {
-    font-size: 22px;
-  }
-  .general-plan-text48 {
     font-size: 22px;
   }
   .general-plan-footer {
@@ -699,12 +710,12 @@
     margin-top: var(--dl-space-space-oneandhalfunits);
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .general-plan-container7 {
+  .general-plan-container8 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
   }
-  .general-plan-text56 {
+  .general-plan-text53 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
