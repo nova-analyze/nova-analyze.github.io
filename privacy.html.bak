@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Privacy - Formal Junior Lapwing</title>
-    <meta property="og:title" content="Privacy - Formal Junior Lapwing" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta charset="utf-8" />
-    <meta property="twitter:card" content="summary_large_image" />
-
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Privacy</title>
+    <meta property="og:title" content="Privacy">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="twitter:card" content="summary_large_image">
     <style data-tag="reset-style-sheet">
       html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
     </style>
@@ -28,379 +27,227 @@
 
       }
     </style>
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/animate.css@4.1.1/animate.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
-      data-tag="font"
-    />
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
-    />
+    <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+
+      data-tag="font">
+    <link rel="stylesheet" href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css">
     <style>
       @keyframes fade-in-left {
         0% {
@@ -415,225 +262,242 @@
     </style>
   </head>
   <body>
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./style.css">
     <div>
-      <link href="./privacy.css" rel="stylesheet" />
-
+      <link href="./privacy.css" rel="stylesheet">
       <div class="privacy-container">
-        <header
-          data-thq="thq-navbar"
-          class="navbarContainer privacy-navbar-interactive"
-        >
-          <a href="index.html" class="privacy-logo">
-            Nova Athletic Biomechanics online clinic
-          </a>
+        <header data-thq="thq-navbar" class="navbarContainer privacy-navbar-interactive">
+          <a href="index.html" class="privacy-logo"> Nova Athletic Biomechanics
+            online clinic </a>
+          <style>
+              .privacy-desktop-menu a {
+                text-decoration: none;
+                position: relative;
+                display: inline-block;
+                margin-right: 15px;
+                color: #FFFFFF;
+              }
+
+              .privacy-desktop-menu a:hover::after {
+                content: "";
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 2px; 
+                background-color: #FFFFFF;
+                bottom: -2px;
+              }
+            </style>
           <div data-thq="thq-navbar-nav" class="privacy-desktop-menu">
-            <nav class="privacy-links">
-              <a href="index.html" class="privacy-nav12">Home</a>
-              <a href="index.html" class="privacy-nav22">Service</a>
-              <a href="frequent-qa.html" class="privacy-nav32">
-                Frequent Q&amp;A
-              </a>
-              <a href="#contact info" class="privacy-nav42">Contact</a>
-            </nav>
+            <nav class="privacy-links"> <a href="index.html" class="privacy-nav12">Home</a>
+              <a href="index.html" class="privacy-nav22">Service</a> <a href="frequent-qa.html"
+
+                class="privacy-nav32"> Frequent Q&amp;A </a> <a href="#contact%20info"
+
+                class="privacy-nav42">Contact</a> </nav>
             <div class="privacy-buttons"></div>
           </div>
           <div data-thq="thq-burger-menu" class="privacy-burger-menu">
             <svg viewBox="0 0 1024 1024" class="privacy-icon socialIcons">
-              <path
-                d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"
-              ></path>
-            </svg>
-          </div>
-          <div
-            data-thq="thq-mobile-menu"
-            class="privacy-mobile-menu1 mobileMenu"
-          >
+              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+            </svg> </div>
+          <div data-thq="thq-mobile-menu" class="privacy-mobile-menu1 mobileMenu">
             <div class="privacy-nav">
-              <div class="privacy-top">
-                <span class="privacy-logo1 logo">BIOMECHANICS</span>
+              <div class="privacy-top"> <span class="privacy-logo1 logo">BIOMECHANICS</span>
                 <div data-thq="thq-close-menu" class="privacy-close-menu">
-                  <svg
-                    viewBox="0 0 1024 1024"
-                    class="privacy-icon2 socialIcons"
-                  >
-                    <path
-                      d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
-                    ></path>
-                  </svg>
-                </div>
+                  <svg viewBox="0 0 1024 1024" class="privacy-icon2 socialIcons">
+                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                  </svg> </div>
               </div>
-              <nav class="privacy-links1">
-                <span class="privacy-nav121">Home</span>
-                <span class="privacy-nav221">Service</span>
-                <span class="privacy-nav321">Q&amp;A</span>
-                <span class="privacy-nav421">Contact</span>
-              </nav>
+              <nav class="privacy-links1"> <span class="privacy-nav121">Home</span>
+                <span class="privacy-nav221">Service</span> <span class="privacy-nav321">Q&amp;A</span>
+                <span class="privacy-nav421">Contact</span> </nav>
               <div class="privacy-buttons1"></div>
             </div>
           </div>
         </header>
-        <div class="privacy-faq-container faqContainer">
-          <span class="privacy-text">
-            <br class="privacy-text01" />
-            <br class="privacy-text02" />
-            <span class="privacy-text03">Privacy Policy</span>
-            <br class="privacy-text04" />
-            <br />
-            <br />
-            <span>
-              At our website, we take your privacy seriously. This Privacy
+        <div class="privacy-faq-container faqContainer"> <span class="privacy-text">
+            <br class="privacy-text01">
+            <br class="privacy-text02">
+            <span class="privacy-text03">Privacy Policy</span> <br class="privacy-text04">
+            <br>
+            <br>
+            <span> At our website, we take your privacy seriously. This Privacy
               Policy explains how we collect, use, and disclose your personal
               information when you use our website, send videos through emails
               or Instagram. By visiting and using our website, you agree to the
-              terms of this Privacy Policy.
-            </span>
-            <br />
-            <br class="privacy-text09" />
-            <span class="privacy-text10">Collection of Information</span>
-            <br />
-            <span>
-              We collect information that you provide to us, such as your name,
-              training information, email address, and other contact
-              information.
-            </span>
-            <br />
-            <span></span>
-            <br />
-            <br />
-            <span class="privacy-text17">Use of Information</span>
-            <br />
-            <span>
-              We may use the information you give to us such as training
+              terms of this Privacy Policy. </span> <br>
+            <br class="privacy-text09">
+            <span class="privacy-text10">Collection of Information</span> <br>
+            <span> We collect information that you provide to us, such as your
+              name, training information, email address, and other contact
+              information for personal analysis, billing, and tax calculation
+              process. </span> <br>
+            <span></span> <br>
+            <br>
+            <span class="privacy-text17">Use of Information</span> <br>
+            <span> We may use the information you give to us such as training
               feedback, website technical issues, or your emails to improve our
-              website and service.
-            </span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text23">Disclosure of Information</span>
-            <br />
-            <span>
-              We will ask your approval first to upload your training/race to
-              our social media or website.
-            </span>
-            <span class="privacy-text26">
+              website and service. </span> <br>
+            <br>
+            <br>
+            <span class="privacy-text23">Disclosure of Information</span> <br>
+            <span> We will ask your approval first to upload your training/race
+              to our social media or website. </span> <span class="privacy-text26">
               Without your approval, we will not disclose your information
-              (upload your video on social media).
-            </span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text30">Cookies</span>
-            <br />
-            <span>No Cookies</span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text36">Payment Security</span>
-            <br />
-            <span>
-              We do not host the payment website/page, we use Stripe to process
-              the payment, a trust worthy website for millions of people and
-              companies.
-            </span>
-            <span class="privacy-text39">
-              We don't keep billing address, the billing address is for tax
-              calculation only.
-            </span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text43">Links to Other Websites</span>
-            <br />
-            <span>
-              Our website may contain links to other websites such as Stripe and
-              Instagram that are not operated by us. We are not responsible for
-              the privacy practices of these websites, and you should read their
-              privacy policies before providing any personal information.
-            </span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text49">Children's Privacy</span>
-            <br />
-            <span>
-              Our website is not intended for children under the age of 13, and
-              we do not knowingly collect personal information from children
+              (upload your video on social media). </span> <br>
+            <br>
+            <br>
+            <span class="privacy-text30">Cookies</span> <br>
+            <span>No Cookies</span> <br>
+            <br>
+            <br>
+            <span class="privacy-text36">Payment Security</span> <br>
+            <span> We do not host the payment website/page, we use Stripe to
+              process the payment, a trust worthy website for millions of people
+              and companies. </span> <span class="privacy-text39"> We don't
+              keep billing address, the billing address is for tax calculation
+              only. </span> <br>
+            <br>
+            <br>
+            <span class="privacy-text43">Links to Other Websites</span> <br>
+            <span> Our website may contain links to other websites such as
+              Stripe and Instagram that are not operated by us. We are not
+              responsible for the privacy practices of these websites, and you
+              should read their privacy policies before providing any personal
+              information. </span> <br>
+            <br>
+            <br>
+            <span class="privacy-text49">Children's Privacy</span> <br>
+            <span> Our website is not intended for children under the age of 13,
+              and we do not knowingly collect personal information from children
               under the age of 13. If you are a parent or guardian and believe
               that your child has provided us with personal information, please
-              contact us, and we will delete the information.
-            </span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text55">Changes to this Privacy Policy</span>
-            <br />
-            <span>
-              We may update this Privacy Policy from time to time. We will
+              contact us, and we will delete the information. </span> <br>
+            <br>
+            <br>
+            <span class="privacy-text55">Changes to this Privacy Policy</span> <br>
+            <span> We may update this Privacy Policy from time to time. We will
               notify you of any changes by posting the new Privacy Policy on our
               website. You are advised to review this Privacy Policy
-              periodically for any changes.
-            </span>
-            <br />
-            <br />
-            <br />
-            <span class="privacy-text61">Advertising</span>
-            <br />
-            <br />
-            <span>No Advertising</span>
-            <br />
-            <br />
-            <br />
+              periodically for any changes. </span> <br>
+            <br>
+            <br>
+            <span class="privacy-text61">Advertising</span> <br>
+            <br>
+            <span>No Advertising</span> <br>
+            <br>
+            <br>
             <span>By using our website, you agree to our Privacy Policy.</span>
-          </span>
-        </div>
+          </span> </div>
         <footer class="footerContainer privacy-footer">
-          <div class="privacy-container1">
-            <a href="index.html" class="privacy-logo2">
-              Nova Athletic BIOMECHANICS online clinic
-            </a>
-            <nav class="privacy-nav1">
-              <a href="index.html" class="privacy-nav222">Service</a>
-              <a href="frequent-qa.html" class="privacy-nav322">
-                Frequent Q&amp;A
-              </a>
-              <a href="#contact info" class="privacy-nav422">Contact</a>
+          <div class="privacy-container1"> <a href="index.html" class="privacy-logo2">
+              Nova Athletic BIOMECHANICS online clinic </a>
+            <style>
+              .privacy-nav1 a {
+                text-decoration: none;
+                position: relative;
+                display: inline-block;
+                margin-right: 15px;
+                color: #FFFFFF;
+              }
+
+              .privacy-nav1 a:hover::after {
+                content: "";
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 2px; 
+                background-color: #FFFFFF;
+                bottom: -2px;
+              }
+            </style>
+            <nav class="privacy-nav1"> <a href="index.html" class="privacy-nav222">Service</a>
+              <a href="frequent-qa.html" class="privacy-nav322"> Frequent
+                Q&amp;A </a> <a href="#contact%20info" class="privacy-nav422">Contact</a>
             </nav>
           </div>
           <div class="privacy-separator"></div>
-          <div class="privacy-container2">
-            <span class="privacy-text69 bodySmall">
+          <div class="privacy-container2"> <span class="privacy-text69 bodySmall">
               © 2024 Nova Athletics biomechanics online clinic, All Rights
-              Reserved.
-            </span>
-            <div class="privacy-icon-group">
-              <span id="contact info" class="privacy-text70">
-                Email: donktr17@gmail.com&nbsp; &nbsp; &nbsp;
-              </span>
-              <a
-                href="https://www.instagram.com/nova_track_club_official/reels/"
-                target="_blank"
-                rel="noreferrer noopener"
-                class="privacy-link"
-              >
-                <svg
-                  viewBox="0 0 877.7142857142857 1024"
-                  class="privacy-icon4 socialIcons"
-                >
-                  <path
-                    d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
-                  ></path>
-                </svg>
-              </a>
-            </div>
+              Reserved. </span>
+            <div class="privacy-icon-group"> <span id="contact info" class="privacy-text70">
+                Email: donktr17@gmail.com&nbsp; &nbsp; &nbsp; </span> <a href="https://www.instagram.com/nova_track_club_official/reels/"
+
+                target="_blank" rel="noreferrer noopener" class="privacy-link">
+                <svg viewBox="0 0 877.7142857142857 1024" class="privacy-icon4 socialIcons">
+                  <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
+                </svg> </a> </div>
           </div>
         </footer>
-      </div>
+        <title>山羊の前端小窝</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        
+        .img{
+            width: 80px;
+            height: 80px;
+            position: absolute;
+            background-image: url('./bolt1.gif');
+            background-size: cover;
+        }
+    </style>
+    <div class="img"></div>
+    <script>
+        let img = document.querySelector('.img')
+        // 定义小图片的旋转角度
+        let deg = 0
+        // 定义小图片位于网页左侧的位置
+        let imgx = 0
+        // 定义小图片位于网页顶部的位置
+        let imgy = 0
+        // 定义小图片x轴的位置
+        let imgl = 0
+        // 定义小图片y轴的位置
+        let imgt = 0
+        // 定义小图片翻转的角度
+        let y = 0 
+        // 定义一个计数器
+        let index = 0
+
+        window.addEventListener('mousemove',function(xyz){
+            // 获取网页左侧距离的图片位置
+            imgx = xyz.x - img.offsetLeft - img.clientWidth /2
+            // 多去网页顶部距离图片的位置
+            imgy = xyz.y - img.offsetTop - img.clientHeight /2
+            // 套入公式，定义图片的旋转角度
+            deg = 360*Math.atan(imgy/imgx)/(2*Math.PI)
+            // 每当鼠标移动的时候重置index
+            index= 0
+            // 定义当前鼠标的位置
+            let x = event.clientX
+            // 当鼠标的x轴大于图片的时候，提普安就要对着鼠标，所以需要将图片翻转过来
+            // 否则就不用翻转
+            if(img.offsetLeft<x){
+                y=0
+            }else{
+                y=-180
+            }
+        })
+        setInterval(()=>{
+            // 设置小图片的旋转和翻转
+            img.style.transform = "rotateZ("+deg+"deg) rotateY("+y+"deg)"
+            index++
+            // 在这里设置小图片的位置和速度，并判断小图片到达鼠标位置时停止移动
+            if(index<50){
+                imgl+=imgx/50 - 1
+                imgt+=imgy/50
+            }
+            img.style.left = imgl+"px"
+            img.style.top = imgt+"px"
+        },10)
+    </script> </div>
     </div>
-    <script
-      data-section-id="navbar"
-      src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
-    ></script>
+    <script data-section-id="navbar" src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
+    
   </body>
 </html>

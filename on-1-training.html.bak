@@ -261,14 +261,33 @@
       }
     </style>
   </head>
-  <body> 
+  <body>
     <link rel="stylesheet" href="./style.css">
     <div>
       <link href="./on-1-training.css" rel="stylesheet">
       <div class="on1-training-container">
         <header data-thq="thq-navbar" class="navbarContainer on1-training-navbar-interactive">
-          <a href="index.html" class="on1-training-logo"> Nova Athletic
-            Biomechanics online clinic </a>
+          <a href="index.html" class="on1-training-logo"> Biomechanics online
+            clinic </a>
+          <style>
+              .on1-training-desktop-menu a {
+                text-decoration: none;
+                position: relative;
+                display: inline-block;
+                margin-right: 15px;
+                color: #FFFFFF;
+              }
+
+              .on1-training-desktop-menu a:hover::after {
+                content: "";
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 2px; 
+                background-color: #FFFFFF;
+                bottom: -2px;
+              }
+            </style>
           <div data-thq="thq-navbar-nav" class="on1-training-desktop-menu">
             <nav class="on1-training-links"> <a href="index.html" class="on1-training-nav12">Home</a>
               <a href="index.html" class="on1-training-nav22">Service</a> <a href="frequent-qa.html"
@@ -322,24 +341,24 @@
             <div class="on1-training-container2">
               <h2 class="on1-training-features-heading"> 1 on 1 Personal Sprint
                 Training Program </h2>
-              <span class="on1-training-features-sub-heading bodyLarge"> <span>
-                  <span> <span> Discover how our biomechanics analysis can take
-                      your performance to the next level </span> <span></span>
-                  </span> <span> <span></span> <span></span> </span> </span>
-                <span> <span> <span></span> <span></span> </span> <span> <span></span>
-                    <span></span> </span> </span> </span> </div>
+              &nbsp; <span class="on1-training-features-sub-heading bodyLarge">
+                <span> <span> <span> </span><span></span> </span> <span> <span></span>
+                    <span></span> </span> </span> <span> <span> <span></span>
+                    <span></span> </span> <span> <span></span> <span></span>
+                  </span> </span> </span> </div>
             <div class="on1-training-container3">
               <div class="on1-training-pricing">
                 <div class="on1-training-container4">
                   <div class="on1-training-pricing-card"> <span class="on1-training-text14">
                       1 on 1 Sprint training </span>
                     <div class="on1-training-container5"> <span class="on1-training-text15">
-                        <span class="on1-training-text16">CA</span> <span class="on1-training-text17">$</span>
-                        <span class="on1-training-text18">599</span> <span>/</span>
-                        <span class="on1-training-text20">4months</span> </span>
-                    </div>
+                        <span class="on1-training-text16">CA</span><span class="on1-training-text17">$</span><span
+
+                          class="on1-training-text18">699</span><span>/</span><span
+
+                          class="on1-training-text20">16 weeks</span> </span> </div>
                     <span class="on1-training-text21"> <span>✔ Get Faster
-                        Efficiently in 4 months</span> <br>
+                        Efficiently in 16 weeks</span> <br>
                       <br>
                       <span>✔ Daily monitor through Email or Instagram</span> <br>
                     </span>
@@ -350,19 +369,72 @@
                         <br>
                         <span>✔ Perform Full Evaluation</span> <br>
                         <br>
-                        <span>✔ Unlimited Access to Biomechanics analysis</span>
-                      </span> <span class="on1-training-text37"> ✔ Unlimited
-                        Q&amp;A </span> <span class="on1-training-text38"> ✔
-                        Unlimited Q&amp;A regarding this plan </span> </div>
-                  </div>
-                  <a href="https://buy.stripe.com/9AQ6pkcD99gc5oY146" target="_blank"
+                        <span>✔ Unlimited Access to Biomechanics analysis</span></span><span
 
-                    rel="noreferrer noopener" class="on1-training-link button">
-                    Buy Now </a> </div>
+                        class="on1-training-text38"> ✔ Unlimited Q&amp;A </span>
+                    </div>
+                  </div>
+                  <style>
+                    .general-plan-container4{
+                        display: flex;
+                        justify-content: center;
+                      }
+
+                   
+                  </style>
+                  <style>.general-plan-link-button {
+                      align-items: center;
+                      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+                      border: 0;
+                      border-radius: 80px;
+                      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+                      box-sizing: border-box;
+                      color: #FFFFFF;
+                      display: flex;
+                      font-family: Phantomsans, sans-serif;
+                      font-size: 20px;
+                      justify-content: center;
+                      line-height: 1em;
+                      max-width: 100%;
+                      min-width: 140px;
+                      padding: 2px;
+                      text-decoration: none;
+                      white-space: nowrap;
+                      cursor: pointer;
+                    }
+
+                    .general-plan-link-button:active,
+                    .block-start-analysis-link-button:hover {
+                      outline: 0;
+                    }
+
+                    .general-plan-link-button span {
+                      background-color: rgb(5, 6, 45);
+                      padding: 16px 24px;
+                      border-radius: 80px;
+                      width: 100%;
+                      height: 100%;
+                      transition: 300ms;
+                    }
+
+                    .general-plan-link-button:hover span {
+                      background: none;
+                    }
+
+                    @media (min-width: 768px) {
+                      .block-start-analysis-link-button{
+                        font-size: 24px;
+                        min-width: 174px;
+                      }
+                    }
+                    </style> <button class="general-plan-link-button" role="button">
+                    <a href="https://buy.stripe.com/28o5lgbz5fEA3gQ7sz" class="general-plan-link-button">
+                      <span class="text">Buy Now</span> </a> </button>
+                </div>
               </div>
               <span class="on1-training-text39"> <br>
-                <span> -- Design personal training programs for personal need (4
-                  months) </span> <br class="on1-training-text42">
+                <span> -- Design personal training programs for personal need
+                  (16 weeks) </span> <br class="on1-training-text42">
                 <br>
                 <span> -- For those athletes who want to get faster efficiently
                 </span> <br class="on1-training-text45">
@@ -373,25 +445,27 @@
                 <span> -- Professionals will give suggestions on your trainings
                   /recovery/food /water/sleep/injuries/ etc. </span> <br class="on1-training-text51">
                 <br>
-                <span>-- Unlimited Q&amp;A of any question</span> <br class="on1-training-text54">
+                <span>-- Unlimited Q&amp;A</span> <br class="on1-training-text54">
                 <br>
                 <span>-- Unlimited biomechanics analysis</span> <a href="https://github.com/nova-analyze/nova-analyze.github.io/raw/main/instruction.docx"
 
-                  target="_blank" rel="noreferrer noopener" class="on1-training-link1">
-                  (download camera setting instructions) </a> <br class="on1-training-text57">
+                  target="_blank" rel="noreferrer noopener" class="on1-training-link1"><u>
+                    (download camera setting instructions on laptop/desktop)</u>
+                </a> <br class="on1-training-text57">
                 <br class="on1-training-text58">
                 <span>-- Need to fill out the</span> <a href="https://github.com/nova-analyze/nova-analyze.github.io/raw/main/Personal%20information.docx"
 
                   target="_blank" rel="noreferrer noopener" class="on1-training-link2">
-                  personal information (download) </a> <br>
+                  personal information (download on laptop or desktop) </a> <br>
                 <br>
                 <span>-- One payment match to one athlete</span> <br class="on1-training-text63">
                 <br class="on1-training-text64">
-                <span class="on1-training-text65">--</span> <span class="on1-training-text66">
-                  Billed Every 4 Months, cancel anytime </span> <br class="on1-training-text67">
+                <span class="on1-training-text65">--</span> <span class="on1-training-text66">Program
+                  starts at the day when you receive the plan </span> <br class="on1-training-text67">
                 <br>
-                <span> -- Training starts from the day you receive our personal
-                  plan, lasts 4 months (120 days). </span> <br class="on1-training-text70">
+                <span> -- Order 2+ will get up to 40% off discount. </span> <br
+
+                  class="on1-training-text70">
                 <br>
                 <span> -- For those who can keep the training consistency and
                   take our suggestions seriously. </span> <br class="on1-training-text73">
@@ -400,12 +474,95 @@
                 <br>
               </span> </div>
           </div>
-          <a href="block-start-analysis.html" class="on1-training-navlink button">
-            <span class="on1-training-text77"> <span>Next --&gt;</span> <br>
-              <span>Block Start Analysis</span> </span> </a> </div>
+          <title>Ripple Effect</title>
+          <style>
+            .on1-training-navlink-button {
+                display: block;
+                margin: 40px 0;
+                width: 210px;
+                height: 70px;
+                border: none;
+                background-color: #fdf6f6;
+                color: #010101;
+                font-size: 18px;
+                border-radius: 56px;
+                outline: none;
+                cursor: pointer;
+                transition: .3s linear;
+
+            }
+            .on1-training-navlink-button:hover{
+                transform: rotateY(20deg);
+                box-shadow: -15px 0 15px #00a8ff;
+            }
+            .ripple {
+              position: absolute;
+              border-radius: 50%;
+              transform: scale(0);
+              animation: ripple-animation 0.3s linear;
+              background-color: rgba(255, 255, 255, 0.7);
+            }
+
+            @keyframes ripple-animation {
+              to {
+                transform: scale(4);
+                opacity: 0;
+              }
+            }
+          </style>
+          <script>
+              function addRippleEffect(event) {
+                      const button = event.currentTarget;
+                      const ripple = document.createElement('span');
+                      ripple.className = 'ripple';
+
+                      const rect = button.getBoundingClientRect();
+                      const size = Math.min(Math.max(rect.width, rect.height), 50);
+
+                      const x = event.clientX - rect.left - size / 2;
+                      const y = event.clientY - rect.top - size / 2;
+
+                      ripple.style.width = ripple.style.height = `${size}px`;
+                      ripple.style.left = `${x}px`;
+                      ripple.style.top = `${y}px`;
+
+                      button.appendChild(ripple);
+
+                      ripple.addEventListener('animationend', () => {
+                        button.removeChild(ripple);
+
+                        window.location.href = button.getAttribute('href');
+                      });
+
+
+                      event.preventDefault();
+                    }
+        </script> <a href="block-start-analysis.html" class="on1-training-navlink-button buttonFilled"
+
+            onclick="addRippleEffect(event)"> <span class="on1-training-text77">
+              <span>Block Start Analysis —&gt;</span> </span> </a> </div>
         <footer class="footerContainer on1-training-footer">
           <div class="on1-training-container7"> <a href="index.html" class="on1-training-logo1">
-              Nova Athletic BIOMECHANICS online clinic </a>
+              BIOMECHANICS online clinic </a>
+            <style>
+              .on1-training-nav1 a {
+                text-decoration: none;
+                position: relative;
+                display: inline-block;
+                margin-right: 15px;
+                color: #FFFFFF;
+              }
+
+              .on1-training-nav1 a:hover::after {
+                content: "";
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 2px; 
+                background-color: #FFFFFF;
+                bottom: -2px;
+              }
+            </style>
             <nav class="on1-training-nav1"> <a href="frequent-qa.html" class="on1-training-nav323">
                 Frequent Q&amp;A </a> <a href="#contact%20info" class="on1-training-nav424">Contact</a>
               <a href="privacy.html" class="on1-training-nav324">Policy</a> </nav>
@@ -424,7 +581,72 @@
           </div>
         </footer>
       </div>
-    </div>
+      <title>山羊の前端小窝</title>
+      <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        
+        .img{
+            width: 80px;
+            height: 80px;
+            position: absolute;
+            background-image: url('./bolt1.gif');
+            background-size: cover;
+        }
+    </style>
+      <div class="img"></div>
+      <script>
+        let img = document.querySelector('.img')
+        // 定义小图片的旋转角度
+        let deg = 0
+        // 定义小图片位于网页左侧的位置
+        let imgx = 0
+        // 定义小图片位于网页顶部的位置
+        let imgy = 0
+        // 定义小图片x轴的位置
+        let imgl = 0
+        // 定义小图片y轴的位置
+        let imgt = 0
+        // 定义小图片翻转的角度
+        let y = 0 
+        // 定义一个计数器
+        let index = 0
+
+        window.addEventListener('mousemove',function(xyz){
+            // 获取网页左侧距离的图片位置
+            imgx = xyz.x - img.offsetLeft - img.clientWidth /2
+            // 多去网页顶部距离图片的位置
+            imgy = xyz.y - img.offsetTop - img.clientHeight /2
+            // 套入公式，定义图片的旋转角度
+            deg = 360*Math.atan(imgy/imgx)/(2*Math.PI)
+            // 每当鼠标移动的时候重置index
+            index= 0
+            // 定义当前鼠标的位置
+            let x = event.clientX
+            // 当鼠标的x轴大于图片的时候，提普安就要对着鼠标，所以需要将图片翻转过来
+            // 否则就不用翻转
+            if(img.offsetLeft<x){
+                y=0
+            }else{
+                y=-180
+            }
+        })
+        setInterval(()=>{
+            // 设置小图片的旋转和翻转
+            img.style.transform = "rotateZ("+deg+"deg) rotateY("+y+"deg)"
+            index++
+            // 在这里设置小图片的位置和速度，并判断小图片到达鼠标位置时停止移动
+            if(index<50){
+                imgl+=imgx/50 - 1
+                imgt+=imgy/50
+            }
+            img.style.left = imgl+"px"
+            img.style.top = imgt+"px"
+        },10)
+    </script> </div>
     <script data-section-id="navbar" src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
   </body>
 </html>
