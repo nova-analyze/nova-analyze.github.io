@@ -441,8 +441,8 @@
                     detail (feedback) you need to fix to improve. </span></span>
                 <br>
                 <br>
-                <span> - Q&amp;A regarding Block Start and Max
-                  Velocity phases questions. </span> <br>
+                <span> - Q&amp;A regarding Block Start and Max Velocity phases
+                  questions. </span> <br>
                 <br>
                 <span>- Please read the</span> <span class="sprint-full-analysis-text38"></span>
                 <a href="https://github.com/nova-analyze/nova-analyze.github.io/raw/main/instruction.docx"
@@ -633,5 +633,6 @@
             img.style.top = imgt+"px"
         },10)
     </script>
+    
   </body>
 </html>
